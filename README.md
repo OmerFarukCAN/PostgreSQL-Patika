@@ -1,2 +1,2 @@
-# PostgreSQL-Patika
+# PostgreSQL - Patika
 SQL Patika Query Files - Homeworks
